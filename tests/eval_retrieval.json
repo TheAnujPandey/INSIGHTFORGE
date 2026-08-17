@@ -1,0 +1,62 @@
+[
+  {
+    "query": "high value customer month-to-month contract churn risk priority call",
+    "expected_sources": ["customer_success_playbook.md"]
+  },
+  {
+    "query": "discount approval authority limit CSM manager percentage",
+    "expected_sources": ["retention_policies.md", "discount_guidelines.md"]
+  },
+  {
+    "query": "low value high risk email campaign automated no human touch",
+    "expected_sources": ["customer_success_playbook.md"]
+  },
+  {
+    "query": "free tech support offer tickets support issues friction",
+    "expected_sources": ["retention_policies.md"]
+  },
+  {
+    "query": "dedicated CSM priority support queue high value customers",
+    "expected_sources": ["retention_policies.md", "customer_success_playbook.md"]
+  },
+  {
+    "query": "loyalty discount 15 percent one year contract renewal",
+    "expected_sources": ["discount_guidelines.md", "customer_success_playbook.md"]
+  },
+  {
+    "query": "senior citizen online security free add-on offer",
+    "expected_sources": ["retention_policies.md", "customer_success_playbook.md"]
+  },
+  {
+    "query": "NPS score low first touch must be call not email",
+    "expected_sources": ["retention_policies.md"]
+  },
+  {
+    "query": "successful win-back campaign results fiber optic customers",
+    "expected_sources": ["successful_campaigns.md"]
+  },
+  {
+    "query": "escalation retention specialist failed call next tier discount",
+    "expected_sources": ["retention_policies.md"]
+  },
+  {
+    "query": "quarterly check-in VIP high value low risk expand",
+    "expected_sources": ["customer_success_playbook.md"]
+  },
+  {
+    "query": "offer overload never bundle three or more offers urgency deadline",
+    "expected_sources": ["customer_success_playbook.md"]
+  },
+  {
+    "query": "price-locked two year contract not eligible for discount service upgrades",
+    "expected_sources": ["retention_policies.md"]
+  },
+  {
+    "query": "streaming TV movies entertainment driven cohort low engagement",
+    "expected_sources": ["retention_policies.md"]
+  },
+  {
+    "query": "email follow-up 24 hours after retention call summarize agreed",
+    "expected_sources": ["retention_policies.md"]
+  }
+]
